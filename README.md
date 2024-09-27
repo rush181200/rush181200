@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rushabhm75](https://medium.com/@rushabhm75)
 
-- 💬 Ask me about **Flutter, Spring Boot, Java, AWS, Multi-Threading**
+- 💬 Ask me about **Flutter, Spring Boot, Java, JavaScript, Reactjs, Nodejs, AWS, Low-Level Desgin, System Design**
 
 - 📫 How to reach me **rushabhm75@gmail.com**
 
